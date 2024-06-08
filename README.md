@@ -2,7 +2,7 @@
 
 Python言語を用いてFRED(セントルイス連邦準備銀行)のデータをAPI経由で取得し、k-meansアルゴリズムを使用してクラスタリングを行い分析を行った。次は出力と分析である。
 
-図1:クラスタリング結果
+図1:クラスタリング結果<br>
 ![図](https://github.com/NagoyaKensuke/clustering_unemployment_rates_and_gross_output_growth_for_US_states/assets/46418599/4351852e-688f-476c-b67d-3c70abedbc67)
 
 
